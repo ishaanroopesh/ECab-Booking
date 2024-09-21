@@ -1,0 +1,20 @@
+.mail,
+.moon,
+.sun {
+	transition: color 0.3s ease, background-color 0.3s ease;
+}
+
+.mail:hover {
+	background-color: rgb(29, 174, 43);
+	color: whitesmoke;
+}
+
+.moon:hover {
+	background-color: black;
+	color: whitesmoke;
+}
+
+.sun:hover {
+	background-color: gold;
+	color: black;
+}
